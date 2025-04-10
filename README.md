@@ -33,7 +33,8 @@ E aí 👋 Tudo certo?</h1>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicon
 </div>
-
+<img 
+  
 ###
 
 <h2 align="left">Projetos</h2>
